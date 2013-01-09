@@ -1,0 +1,11 @@
+rm *.o
+g++ -c 3D_Vectors.cpp 
+g++ -c MTrand.cpp 
+g++ -c Simu_variables.cpp 
+g++ -c Utils_distances.cpp 
+g++ -c Bead.cpp 
+g++ -c Plaquette.cpp 
+g++ -c Testv.cpp
+
+echo "DONE COMPILING"
+g++ -o "testv.x" Testv.o 3D_Vectors.o MTrand.o Utils_distances.o Simu_variables.o Bead.o Plaquette.o

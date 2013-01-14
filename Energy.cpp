@@ -1,4 +1,4 @@
-//  Stefano Angioletti-Uberti. Is the author of this program 
+//  Stefano Angioletti-Uberti. Is the author of this program, help from science 
 //  CPlaquette.cpp
 //  Deformable colloids
 //

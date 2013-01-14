@@ -1,4 +1,4 @@
-//  Stefano Angioletti-Uberti. Approved by
+//  Stefano Angioletti-Uberti. Is the author 
 //  CPlaquette.cpp
 //  Deformable colloids
 //

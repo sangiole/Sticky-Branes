@@ -1,4 +1,4 @@
-//  Stefano
+//  Stefano Angioletti
 //  CPlaquette.cpp
 //  Deformable colloids
 //
